@@ -1,0 +1,18 @@
+#outer{
+    margin-right:60%;
+    margin-left: 45%;
+    margin-top: 8%;
+    padding:50px;
+    height:250px;
+    width: 250px;
+    background-color: red;
+    box-sizing: border-box;
+}
+#code{
+    margin-left:45%;
+    margin-right:60%;
+    font-weight: bold; 
+    margin-top: 5%;
+    width: 90%;
+    font-size: 30px;
+}
