@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+
+    <script>
+        function fibonnacci(n){
+            var a=0;
+            var b =1;
+            var c =1;
+            if(n===0){
+                return true;
+            }
+
+            while(c<n){
+            a =b;
+            b =c;
+            c = a+b;
+            }
+            if(n===c){
+                return true;
+            }
+            
+           return false;
+        }
+         
+        var ans = fibonnacci(5);
+        console.log(ans);
+    </script>
+</html>
