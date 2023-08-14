@@ -1,2 +1,2 @@
 # JS
-Resources of JS
+Resources of JS + Projects
