@@ -1,4 +1,5 @@
 <h1> Resources of JS</h1>
+<img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" height="350" width="500" align="right">
 <ul type="circle">
 <li>Var vs Let vs Const</li>
 <li>Loops & Basic Functions</li>
