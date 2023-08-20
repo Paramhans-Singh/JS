@@ -1,7 +1,7 @@
 <h1> Resources of JS</h1>
 <ul type="circle">
 <li>Var vs Let vs Const</li>
-<img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" height="300" width="450" align="right">
+<img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" height="400" width="450" align="right">
 <li>Loops & Basic Functions</li>
   <ol type="I">
     <li>for of loop </li>
