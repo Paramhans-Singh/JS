@@ -39,7 +39,7 @@
 <li>Strict Mode ES6</li>
 <li>Closures</li>
 <li>IIFE & Arrow Functions</li>
-<li>Babel JS as ES6 & Vanilla JS(Common JS)</li>
+<li>Babel JS (ES6 JS Version) & Vanilla JS(Common JS)</li>
 
 <li>Projects</li>
   <ul type="disc">
